@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "317878982794",
+    "firebase_url": "https://flutter-1abe1-default-rtdb.firebaseio.com",
+    "project_id": "flutter-1abe1",
+    "storage_bucket": "flutter-1abe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317878982794:android:ed1c90ac73d474aeb6b573",
+        "android_client_info": {
+          "package_name": "com.example.hour_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317878982794-f8ss1fv4th8252smlmvacuuqrnpi90nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcBG0G3WdmnaC0Ht9J-1IKyrJRg4iv7sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317878982794-f8ss1fv4th8252smlmvacuuqrnpi90nb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317878982794-89cba15ssna91i2u4pjn9iauu79mhqtr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hourTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
